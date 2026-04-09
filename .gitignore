@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output (generated at runtime, not part of the skill)
+docs/requirements/
+
+# Temp
+*.tmp
+*.bak
